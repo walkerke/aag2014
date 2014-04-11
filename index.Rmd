@@ -44,7 +44,7 @@ font-size: 100% !important;
 
 * General findings: migrants tend to move "down the urban hierarchy" to smaller cities as they age (Plane et al. 2005; Plane and Jurjevich 2009)
 
-<img src=assets/img/plane.png style="width: 700px">
+<img src=assets/img/plane.PNG style="width: 700px">
 
 <span class="footnote">Image source: Plane, D., and Jurjevich, J. (2009).  "Ties That No Longer Bind?  The Patterns and Repercussions of Age-Articulated Migration." *The Professional Geographer* 61(1), 4-20. 
 
