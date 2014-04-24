@@ -2,11 +2,9 @@
 
 library(foreign)
 library(ggplot2)
-#library(plotly)
 
 dat <- read.dta("boomer_merged.dta")
 
-#api_key <- "igj7twgt9q"
 
 dat.chi <- dat[dat$metroid == 16980,]
 
